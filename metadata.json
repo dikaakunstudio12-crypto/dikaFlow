@@ -1,0 +1,8 @@
+
+{
+  "name": "Cinematic Prompt Architect",
+  "description": "A high-precision visual analysis tool that transforms images and videos into hyper-detailed generative prompts for AI image and video generators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
